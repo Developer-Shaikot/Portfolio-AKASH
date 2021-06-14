@@ -1,0 +1,33 @@
+.back {
+  height: 100%;
+  position: relative;
+  background-size: cover;
+  background-image: linear-gradient(
+        
+        rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.986)
+      ), url(./../../images/7787c6081505451ca11acc8b43aa75ec.gif);
+  min-height: 110vh;
+  }
+  .About-logo {
+    height: 10vmin;
+    
+    pointer-events: none;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .About-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+.button{
+    margin-left: 70%;
+    margin-bottom: 5%;
+    height: 50px
+}
+.AboutAlignment{
+  margin-top: 7%;
+}
+.FooterAlignment{
+  margin-left: 30%;
+  margin-right: 20%;
+}
+

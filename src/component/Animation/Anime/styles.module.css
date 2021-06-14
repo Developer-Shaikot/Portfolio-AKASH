@@ -1,0 +1,61 @@
+.item {
+    position: relative;
+    width: 300px;
+    height: 100px;
+    pointer-events: auto;
+    transform-origin: 50% 50% 0px;
+    padding-left: 32px;
+    padding-right: 32px;
+    box-sizing: border-box;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px -0px rgb(6, 222, 238);
+    -webkit-user-select: none;
+    user-select: none;
+  }
+  
+  .fg {
+    cursor: -webkit-grab;
+    background-color: #272727;
+    color: rgba(233, 233, 223, 0.952);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 0px 0px -0px rgb(12, 220, 235);
+    font-size: 2em;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    transition: box-shadow 0.75s;
+    
+  }
+  
+  .fg:active {
+    cursor: -webkit-grabbing;
+    box-shadow: 0px 0px 0px -0px rgba(44, 216, 202, 0.904);
+  }
+  
+  .fg > * {
+    pointer-events: none;
+  }
+  
+  .av {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    color: #000;
+    background-color: rgb(230, 235, 234);
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    height: 80%;
+    justify-content: center;
+  }
+  

@@ -1,0 +1,9 @@
+.bar{
+    color: rgba(0,0,0,0.8);;
+}
+.bar:hover{
+    text-decoration:none;
+    background-color: rgba(212, 231, 245, 0.781);
+    color:black;
+    
+}

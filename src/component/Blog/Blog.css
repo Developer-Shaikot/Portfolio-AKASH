@@ -1,0 +1,8 @@
+.background {
+    height: 100%;
+    position: relative;
+    background-size: cover;
+    background-image: url(./../../images/efcab3175c897930c0aad38fe877b6df.jpg);
+    min-height: 110vh;
+  }
+  

@@ -1,0 +1,29 @@
+.project {
+   background-image: url(./../../images/efcab3175c897930c0aad38fe877b6df.jpg);
+    -webkit-filter:blur(0.8);
+    filter:drop-shadow(1.2);
+    min-height: 110vh;
+  }
+  .link-button{
+    background-color: rgb(24, 12, 24);
+    padding: 10px 10px;
+    border-radius: 5px;
+    color:black;
+    font-weight: 200;
+}
+
+
+.text-white{
+    text-align: center;
+    
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+
+

@@ -1,0 +1,82 @@
+.App {
+    text-align: center;
+  }
+  .intro{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Merriweather', serif;
+  }
+  .pra{
+    font-family: 'Merriweather', serif;
+  }
+  .db {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+  .Social{
+    text-decoration:none;
+    border: #61dafb;
+    color: rgb(240, 240, 240);
+    
+}
+  .Social:hover{
+    text-decoration:none;
+    color: rgb(44, 186, 211);
+    
+}
+  .btn :hover{
+    color:cornsilk;
+    text-decoration:none;
+  }
+img :hover{
+      border: 1px solid blue;
+  }
+  .name{
+    color: #61dafb;
+    font-weight: 600;
+  }
+  
+  .App-logo {
+    height: 30vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  /* .logo{
+    width:25%;
+    border: 2px solid black;
+    border-radius: 10px;
+  } */
+  .App-header {
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  a:hover{
+    text-decoration: none;
+  }
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+ 
+  
