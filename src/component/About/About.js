@@ -39,7 +39,7 @@ const About = () => {
                     <br />
                     <Button variant="outline-info" size="lg  mt-3 mb-2"> 
                     <a className="db" 
-                    href="https://drive.google.com/file/d/1BCSWF5if9-Uvk1k_elbGaMleuff_d2Q1/view?usp=sharing" target="_blank">Download Resume</a></Button>
+                    href="https://drive.google.com/file/d/1BCSWF5if9-Uvk1k_elbGaMleuff_d2Q1/view?usp=sharing" target="_blank">Resume</a></Button>
                     <br />
                 </div >
                 <div style={{ marginLeft: '25%', marginRight: '20%', marginTop: '40px' }} className="container col-md-6">

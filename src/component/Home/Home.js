@@ -30,7 +30,7 @@ const Home = () => {
                         
                         </small>
                         <br />
-                        <Button variant="outline-info" size="lg  mt-3 mb-2"> <a className="db" href="https://drive.google.com/file/d/1BCSWF5if9-Uvk1k_elbGaMleuff_d2Q1/view?usp=sharing" target="_blank">Download Resume</a></Button>
+                        <Button variant="outline-info" size="lg  mt-3 mb-2"> <a className="db" href="https://drive.google.com/file/d/1BCSWF5if9-Uvk1k_elbGaMleuff_d2Q1/view?usp=sharing" target="_blank">Resume</a></Button>
                         <br/>
                        
                         

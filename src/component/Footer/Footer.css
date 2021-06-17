@@ -1,5 +1,7 @@
 
-
+.icon:hover{
+    background-color:#fffbfb;
+}
 .footer-area li{
     padding-bottom: 10px;
 }

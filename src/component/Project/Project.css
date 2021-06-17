@@ -1,7 +1,11 @@
 .project {
-   background-image: url(./../../images/efcab3175c897930c0aad38fe877b6df.jpg);
-    -webkit-filter:blur(0.8);
-    filter:drop-shadow(1.2);
+    height: 100%;
+    position: relative;
+    background-size: cover;
+    background-image: linear-gradient(
+        
+        rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.986)
+      ), url(./../../images/7787c6081505451ca11acc8b43aa75ec.gif);
     min-height: 110vh;
   }
   .link-button{
