@@ -30,7 +30,7 @@ const Project = () => {
                                     <p class="card-text">
                                         <small className="pra" >Take your air(ticket) from Akash-Airlines. Proved successful working within tight deadlines and fast-paced atmosphere by using React(Js).</small>
                                     </p>
-                                    <a href="https://github.com/Shaikot3009/Akash-Airlines" target="_blank"><GitHubIcon></GitHubIcon></a>
+                                    <a href="https://github.com/Shaikot3009/Akash-Airlines-client-site" target="_blank"><GitHubIcon></GitHubIcon></a>
                                     <br />
                                     <Button className="link-button" variant="outline-dark" size="lg  mt-2 pt-2"> <a className="db" href="https://airlines-3953f.web.app/" target="_blank">Live Site</a></Button>
                                     <br />
